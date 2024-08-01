@@ -1,0 +1,37 @@
+[
+    {
+        "name": "telegram",
+        "title": "telegram",
+        "url": "https://www.telegram.com"
+    },
+    {
+        "name": "message",
+        "title": "message",
+        "url": "https://www.message.com"
+    },
+    {
+        "name": "language",
+        "title": "Tiếng việt",
+        "url": "/"
+    },
+    {
+        "name": "mien-phi-co-thuong",
+        "title": "Miễn phí có thưởng",
+        "url": "/free-with-rewards"
+    },
+    {
+        "name": "co-hoi-kiem-tien",
+        "title": "Cơ hội kiếm tiền",
+        "url": "/opportunity"
+    },
+    {
+        "name": "teoem68@support",
+        "title": "teoem68@support",
+        "url": "mailto:teoem68@support"
+    },
+    {
+        "name": "teoem68@support1",
+        "title": "teoem68@support",
+        "url": "mailto:teoem68@support"
+    }
+]
